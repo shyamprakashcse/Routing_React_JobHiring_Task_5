@@ -1,0 +1,36 @@
+.proftitle{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.profdiv{
+
+    width:50%; 
+    margin:2%; 
+    position: relative;
+    left:10%; 
+    top:20%; 
+    padding: 5%;
+}
+
+.profform{
+    padding:5%; 
+}
+
+.submitted{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+
+}
+
+.res{
+    background-color: rgb(177, 240, 164);
+}
